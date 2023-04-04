@@ -1,12 +1,12 @@
 title: Soh Li Jing # your name (or website title) here
-logo: "/images/profilepic.jpg?raw=true" # your photo (or logo) here
+logo: "/images/profilepic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Introduce myself here
   <br><br>
   Ranked in top 20% of undergraduate cohort at Nanyang Technological University.
   <br><br>
-  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/sohlijing//">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
