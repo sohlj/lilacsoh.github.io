@@ -1,1 +1,1 @@
-# lilacsoh.github.io
+# Li Jing's portfolio projects
